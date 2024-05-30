@@ -165,6 +165,13 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the GNU General Public License v3.0 . See the LICENSE file for details.
 
+## Contact Information
+
+For any inquiries or issues, please contact:
+- **Pritesh Gandhi**
+- **Email**: pgandhi1412@gmail.com
+- **GitHub**: [YourGitHubProfile](https://github.com/Devil-Code)
+
 ---
 
 This updated `README.md` file provides a comprehensive overview of the features and functionality of the Medicine and Supplier Management System, along with instructions for getting started and contributing to the project.
